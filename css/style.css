@@ -1,0 +1,23 @@
+:root {
+  --clr-green-80: hsl(179, 62%, 43%);
+  --clr-green-165: hsl(71, 73%, 54%);
+  --clr-blue-5: hsl(204, 53%, 93%);
+  --clr-blue-12: hsl(218, 22%, 67%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
